@@ -8,7 +8,7 @@ Subscription tracker built for Canadians. Find what you're paying for via Gmail 
 
 | Layer | Tech |
 |-------|------|
-| **drip-web** | Next.js 15 · Tailwind · PWA (installable on iOS/Android) |
+| **drip-web** | Next.js 16 · React 19 · Tailwind CSS 4 · PWA (installable on iOS/Android) |
 | **drip-api** | Bun · Hono · Drizzle ORM · SQLite |
 | **Auth** | Google OAuth (Gmail), Plaid Link (banks) |
 | **AI** | Claude Haiku 4.5 for unknown-service enrichment |
